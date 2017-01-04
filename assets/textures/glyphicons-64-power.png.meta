@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a5474186-c8a0-4f3d-9e95-8e97ed79aa32",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "glyphicons-64-power": {
+      "ver": "1.0.3",
+      "uuid": "9760e29e-c321-4e2a-a0fb-7562d262fc50",
+      "rawTextureUuid": "a5474186-c8a0-4f3d-9e95-8e97ed79aa32",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 22,
+      "height": 24,
+      "rawWidth": 22,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

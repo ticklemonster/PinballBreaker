@@ -1,0 +1,7 @@
+{
+  "excludeScenes": [],
+  "packageName": "org.cocos2d.pinbreaker",
+  "platform": "web-mobile",
+  "startScene": "8d543150-87d2-4c68-adcd-2ddcd14f71dc",
+  "title": "HelloWorld"
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>arrow0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{52,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,55}}</string>
+				<key>sourceSize</key>
+				<string>{52,55}</string>
+			</dict>
+
+			<key>arrow1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,56},{52,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,55}}</string>
+				<key>sourceSize</key>
+				<string>{52,55}</string>
+			</dict>
+
+			<key>arrow2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,112},{51,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{51,55}}</string>
+				<key>sourceSize</key>
+				<string>{51,55}</string>
+			</dict>
+
+			<key>arrow3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,168},{51,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{51,55}}</string>
+				<key>sourceSize</key>
+				<string>{51,55}</string>
+			</dict>
+
+			<key>arrow4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,0},{50,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{50,55}}</string>
+				<key>sourceSize</key>
+				<string>{50,55}</string>
+			</dict>
+
+			<key>arrow5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,169},{51,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{51,56}}</string>
+				<key>sourceSize</key>
+				<string>{51,56}</string>
+			</dict>
+
+			<key>arrow6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,112},{51,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{51,56}}</string>
+				<key>sourceSize</key>
+				<string>{51,56}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{128,256}</string>
+			<key>textureFileName</key>
+			<string>sprite.png</string>
+			</dict>
+		</dict>
+</plist>

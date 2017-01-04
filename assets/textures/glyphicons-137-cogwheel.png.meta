@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7fdadc44-5f2b-43ed-a493-17a57c5697f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "glyphicons-137-cogwheel": {
+      "ver": "1.0.3",
+      "uuid": "f91c9b63-a5b2-4f45-9e4d-08036f29dad3",
+      "rawTextureUuid": "7fdadc44-5f2b-43ed-a493-17a57c5697f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  ],
+  "group-list": [
+    "default",
+    "player",
+    "ball",
+    "block",
+    "bonus",
+    "death"
+  ],
+  "start-scene": "8d543150-87d2-4c68-adcd-2ddcd14f71dc",
+  "excluded-modules": []
+}
